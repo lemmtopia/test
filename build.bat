@@ -1,0 +1,1 @@
+clang src/*.c -o bin/test.exe -luser32
